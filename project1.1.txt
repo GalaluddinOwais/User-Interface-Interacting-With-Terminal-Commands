@@ -1,0 +1,23 @@
+.TH project1(fileManager) "2021-9-16" "V1.0" "project1 man page"
+
+.SH NAME
+file manager project
+
+.SH DESCRIPTION
+our humble application provides capabilities to navigate through directories, create or delete files and directories, add or remove permissions and create symbolic link files, in a high-level form for normal user away from the terminal commands.
+
+.SH OPTIONS
+.IP 'dir'Argument
+pass 'dir' after calling the program to execute terminal version
+.IP noArguments
+GUI runs with expressive buttons
+
+.SH OPTIONS
+in GUI Mode, to create symbolic link for specific directory or file, navigate to choose it through the upper drop-down-list, then navigate to get in to where you want to create symbolic link through the lower drop-down-list, and click on 'create symbolic link' button.
+
+.SH AUTHORS
+Galaluddin Owais Galal..
+Mina Zakka Suliman..
+Huda Ayman Rashad..
+Mennatullah Mohamed Yousry..
+Engy Medhat Mustafa
