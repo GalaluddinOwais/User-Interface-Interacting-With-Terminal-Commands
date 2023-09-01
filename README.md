@@ -3,8 +3,8 @@
 
 # Key Achievements
 
-#### *Allowed users to run the application whatever the address is in terminal
-#### *Provided manual page to view in terminal as a documentation for the project
+#### * Allowed users to run the application whatever the address is in terminal
+#### * Provided manual page to view in terminal as a documentation for the project
 
 # Requirements
 #### Any `Java` version should work!
