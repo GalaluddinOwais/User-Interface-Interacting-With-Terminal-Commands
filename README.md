@@ -1,9 +1,15 @@
 # About the project
-This project provides a graphical user interface with options that abstract interactions with the Ubuntu terminal, offering a straightforward way to navigate through directories and perform various file and directory operations, including creation, deletion, and shortcut creation
+This project provides a graphical user interface with options that abstract interactions with the terminal of Ubuntu operating system, offering a straightforward way to navigate through directories and perform file and directory operations.
 
 # Key Achievements
 
-* Allowed users to run the application whatever the address is in terminal
+* Implemented functions to formulate and execute linux commands according to the user's selections from a graphical user interface
+* Incorporated the following file and directory operations:
+  * Creation
+  * Shortcut creation
+  * Deletion
+  * Permission management
+* Allowed the user to run the application whatever the address is in terminal
 * Provided manual page to view in terminal as a documentation for the project
 
 # Requirements
